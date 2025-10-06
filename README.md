@@ -327,7 +327,7 @@ Management.html
             <li><a href="menu.html">Menu</a></li>
             <li><a href="Management.html" class="active">Administration</a></li>
             <li><a href="contact us.html">Contact Us</a></li>
-            <li><a href="about us.html">Contact Us</a></li>
+            
         </ul>
     </nav>
 
@@ -387,7 +387,7 @@ contact us.html
             <li><a href="menu.html">Menu</a></li>
             <li><a href="administration.html">Administration</a></li>
             <li><a href="contact us.html" class="active">Contact Us</a></li>
-            <li><a href="about us.html">Contact Us</a></li>
+
         </ul>
     </nav>
 
