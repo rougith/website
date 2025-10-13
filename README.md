@@ -118,7 +118,7 @@ Publish the website in the given URL.
 </html>
 
 
-#style.css
+'''#style.css
 
 
 
@@ -308,7 +308,7 @@ footer .credit strong {
 }
 
 
-Management.html
+'''Management.html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -368,7 +368,7 @@ Management.html
 
 </html>
 
-contact us.html
+'''contact us.html
 <!DOCTYPE html>
 <html lang="en">
 
