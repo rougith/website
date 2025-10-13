@@ -26,8 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
-'''
-res.html
+'''res.html
 <!DOCTYPE html>
 <html lang="en">
 
